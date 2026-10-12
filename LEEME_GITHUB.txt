@@ -1,0 +1,14 @@
+CUADERNO DE INGLÉS CEIP TOXIRIA — GITHUB PAGES
+
+1. Descomprime este ZIP.
+2. Entra en tu repositorio de GitHub.
+3. Pulsa Add file > Upload files.
+4. Sube index.html en la raíz del repositorio.
+5. Pulsa Commit changes.
+6. En Settings > Pages, selecciona Deploy from a branch.
+7. Elige la rama main y la carpeta /(root). Pulsa Save.
+8. Espera a que aparezca el enlace en Settings > Pages.
+
+PRIVACIDAD:
+Esta versión pública NO contiene los nombres del alumnado. No subas nombres, notas ni otros datos personales a un repositorio público.
+Los formularios siguen siendo una maqueta y no guardan datos permanentemente. Para el uso real, habrá que conectar una aplicación privada con Google Apps Script/Drive y restringir el acceso.
