@@ -1,0 +1,7 @@
+CUADERNO DE PROGRAMACIÓN DE INGLÉS CEIP TOXIRIA 2026/2027
+
+1. Sube index.html a la raíz del repositorio GitHub Pages para reemplazar la versión anterior.
+2. Las seis situaciones de aprendizaje por curso proceden de los índices de los documentos Open Up 1–6 facilitados.
+3. Al elegir una sesión se sugieren criterios curriculares extraídos de la programación de ese curso según el tipo de actividad. Esta asociación es orientativa y debe confirmarse con las evidencias reales de la sesión.
+4. Esta versión todavía no guarda en Google Drive ni exporta a Séneca.
+5. No se incluyen nombres de alumnado.
